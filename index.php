@@ -3,7 +3,7 @@
     <head>
         <title>Mon SITE</title>  
         <meta charset=UTF-8>  
-        <<style>
+<<style>
         body{background: grey}
         p{position: absolute;
             top: 40%;
@@ -18,7 +18,6 @@
             font-size: 40px;
             color: black;}
         }   
-        
         </style>
     </head>
     <body>
